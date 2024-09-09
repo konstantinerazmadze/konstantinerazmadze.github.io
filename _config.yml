@@ -17,8 +17,10 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}         
-  - {file: "index.html", title: "Home Change"}
-  - {file: "README.md", title: "About me"}
+  - {file: "/konstantine.pdf", title: "CV"}
+  - {title: "Projects", file: "/projects.md"}
+  - {title: "publications", file: "/public"}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:k.razmadze92@gmail.com"}
