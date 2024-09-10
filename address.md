@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "contacts"
+title: "address"
 ---
 
 Address:  
