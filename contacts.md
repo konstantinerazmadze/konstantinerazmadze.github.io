@@ -3,7 +3,7 @@ layout: title
 page: "Contacts"
 ---
 
-#Address:     
+Address:     
 
 Ludwig-Maximilians-Universität München     
 
@@ -19,7 +19,7 @@ Geschwister-Scholl-Platz 1
 
 D-80539 München                                                   
 
-#Office:
+Office:
 Ludwigstr. 31
 Room 221
 D-80539 München
