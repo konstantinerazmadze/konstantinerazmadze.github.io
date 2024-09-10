@@ -10,8 +10,8 @@ Munich Center for Mathematical Philosophy (MCMP)
 Geschwister-Scholl-Platz 1
 
 D-80539 München
----
-title: "Office":
+
+Office:
 ---
 Ludwigstr. 31
 
