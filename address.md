@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "address:"
+title: "Address:"
 --- 
 
 Ludwig-Maximilians-Universität München
@@ -11,9 +11,7 @@ Geschwister-Scholl-Platz 1
 
 D-80539 München
 
-
-
-#Office:
+title: "Office":
 
 Ludwigstr. 31
 
