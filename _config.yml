@@ -17,11 +17,11 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}         
-  
+
+  - {title: "Talks and conferences", file: "Talks and Conferences.md"}
   - {title: "Projects", file: "projects.md"}
-  - {title: "Talks and acaonferences", file: "Talks and Conferences.md"}
   - {title: "CV", url: "/konstantine.pdf", target: "_blank"}
-  - {title: "contact", file: "contact.md"}
+  - {title: "contacts", file: "contacts.md"}
 
 
 
