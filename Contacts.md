@@ -3,7 +3,7 @@ layout: title
 page: "Contacts"
 ---
 
-                                            Address:
+Address:
        Germany                                                        Georgia                       
 Ludwig-Maximilians-Universität München                           Ivane Javaxishvili Tbilisi State University
 Fakultät für Philosophie, Wissenschaftstheorie                   Faculty of Exact and Natural Science
@@ -18,4 +18,4 @@ Ludwigstr. 31
 Room 221
 D-80539 München
 
-                                EMAIL: k.razmadze92@gmail.com
+EMAIL: k.razmadze92@gmail.com
