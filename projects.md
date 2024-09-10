@@ -6,7 +6,6 @@ title: "Projects"
 Principal researcher in grant (SRNSFG-DAAD) "Temporal Logic of a Sequence of Finite Linear Processes." 2024
 
 Researcher in grant (SRNSFG) FR-22-6700 "Polyhedral Semantics for modal and intuitionistic logic." 2023 – 2026
-Shota Rustaveli National Science Foundation | Georgia
 
 Researcher in grant (SRNSFG) FR-22-4923 "A categorical approach to generalized bialgebras, Hopf algebroids and related structures; descent and term rewriting."2023 – 2026
 
