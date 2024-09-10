@@ -19,9 +19,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}         
 
   - {title: "Talks and Conferences", file: "Talks and Conferences.md"}
-  - {title: "Projects", file: "projects.md"}
+  - {title: "Projects", file: "Projects.md"}
   - {title: "CV", url: "/konstantine.pdf", target: "_blank"}
-  - {title: "Contacts", file: "contacts.md"}
+  - {title: "Contacts", file: "Contacts.md"}
 
 
 
