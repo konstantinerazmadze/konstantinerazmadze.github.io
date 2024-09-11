@@ -1,8 +1,6 @@
 ---
 layout: page
-title: ""
+title: "W  E  L  C  O  M  E !"
 ---
-
-WELCOME!
 
 I am Konstantine Razmadze.
