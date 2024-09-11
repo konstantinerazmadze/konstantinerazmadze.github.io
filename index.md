@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/28ac5378-deb1-4cea-9975-4a7585cab3f6)---
+---
 layout: page
 title: "W  E  L  C  O  M  E !"
 ---
