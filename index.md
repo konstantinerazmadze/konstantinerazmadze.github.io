@@ -5,4 +5,4 @@ title: ""
 
 WELCOME!
 
-Iam Konstantine Razmadze.
+I am Konstantine Razmadze.
